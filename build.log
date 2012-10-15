@@ -1,0 +1,3 @@
+Logfile initialized
+[INFO] logfile = /Users/ben/Documents/Titanium_Studio_Workspace/GLu/build.log
+[DEBUG] /Users/ben/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/builder.py emulator Glu /Users/ben/android-sdk /Users/ben/Documents/Titanium_Studio_Workspace/GLu com.glutracker.glu 1 WXGA
